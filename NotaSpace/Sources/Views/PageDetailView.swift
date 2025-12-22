@@ -180,4 +180,3 @@ struct BlockView: View {
 #Preview {
     PageDetailView(pageId: "test-id")
 }
-

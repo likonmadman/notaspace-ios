@@ -52,9 +52,3 @@ final class HomeViewModel: ObservableObject {
         await loadData()
     }
 }
-
-
-
-
-
-

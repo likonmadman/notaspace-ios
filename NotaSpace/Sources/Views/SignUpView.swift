@@ -95,4 +95,3 @@ struct SignUpView: View {
     SignUpView()
         .environmentObject(AuthViewModel())
 }
-

@@ -35,4 +35,3 @@ struct WorkspacesData: Codable {
         case `public` = "public"
     }
 }
-

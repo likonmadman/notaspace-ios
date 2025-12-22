@@ -146,4 +146,3 @@ struct AppTextField: View {
     }
     .padding()
 }
-

@@ -24,9 +24,3 @@ final class ActivityService {
         )
     }
 }
-
-
-
-
-
-

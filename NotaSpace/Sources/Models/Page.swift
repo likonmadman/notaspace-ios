@@ -43,9 +43,3 @@ struct PagesResponse: Codable {
         case total
     }
 }
-
-
-
-
-
-

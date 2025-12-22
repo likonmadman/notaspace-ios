@@ -54,4 +54,3 @@ struct FileResource: Codable {
         case previewUrl = "preview_url"
     }
 }
-

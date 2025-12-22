@@ -36,9 +36,3 @@ struct Task: Identifiable, Codable {
 struct TasksResponse: Codable {
     let data: [Task]
 }
-
-
-
-
-
-

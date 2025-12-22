@@ -125,4 +125,3 @@ final class AuthService {
 
 /// Пустой ответ от API
 struct EmptyResponse: Codable {}
-

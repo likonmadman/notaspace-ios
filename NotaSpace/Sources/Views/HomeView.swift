@@ -276,4 +276,3 @@ struct ActivityRowView: View {
 #Preview {
     HomeView()
 }
-

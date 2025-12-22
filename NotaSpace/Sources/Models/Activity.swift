@@ -28,9 +28,3 @@ struct Activity: Identifiable, Codable {
 struct ActivitiesResponse: Codable {
     let data: [Activity]
 }
-
-
-
-
-
-

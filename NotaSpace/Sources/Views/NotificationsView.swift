@@ -173,4 +173,3 @@ struct NotificationRowView: View {
 #Preview {
     NotificationsView()
 }
-

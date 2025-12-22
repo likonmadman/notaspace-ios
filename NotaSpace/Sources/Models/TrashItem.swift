@@ -26,9 +26,3 @@ struct TrashItem: Identifiable, Codable {
 struct TrashResponse: Codable {
     let data: [TrashItem]
 }
-
-
-
-
-
-

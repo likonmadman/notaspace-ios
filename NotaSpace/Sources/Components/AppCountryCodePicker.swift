@@ -285,4 +285,3 @@ struct AppCountryCodePicker: View {
     AppCountryCodePicker(selectedCode: .constant("+7"))
         .padding()
 }
-

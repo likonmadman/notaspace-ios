@@ -85,9 +85,3 @@ final class TrashViewModel: ObservableObject {
         }
     }
 }
-
-
-
-
-
-

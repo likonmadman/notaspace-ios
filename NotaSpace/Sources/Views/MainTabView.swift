@@ -41,4 +41,3 @@ struct MainTabView: View {
     MainTabView()
         .environmentObject(AuthViewModel())
 }
-

@@ -56,4 +56,3 @@ struct PagePermissions: Codable {
 struct PageDetailResponse: Codable {
     let data: PageDetail
 }
-

@@ -59,4 +59,3 @@ struct AppTabs: View {
     )
     .padding()
 }
-

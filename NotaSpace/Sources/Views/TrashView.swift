@@ -205,4 +205,3 @@ struct TrashItemRowView: View {
 #Preview {
     TrashView()
 }
-

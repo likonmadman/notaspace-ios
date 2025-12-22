@@ -151,4 +151,3 @@ struct AppButton: View {
     }
     .padding()
 }
-

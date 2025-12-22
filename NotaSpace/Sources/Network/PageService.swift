@@ -163,4 +163,3 @@ final class PageService {
         return response.favorite
     }
 }
-
